@@ -15,8 +15,8 @@ const Portfolio = () => {
           id: 1,
           src: MyPortfolio,
           name: "My Portfolio",
-          demoLink: "https://github.com/tahneetK13/Portfolio", 
-          githubRepo: "https://github.com/tahneetK13/Portfolio",
+          demoLink: "https://tahneetkanwal.netlify.app/", 
+          githubRepo: "https://github.com/tahneetK13/Tahneet-Portfolio",
           techstack: "Reactjs, Tailwind Css, Framer-motion",
         },
         {
