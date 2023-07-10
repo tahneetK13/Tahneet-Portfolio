@@ -30,7 +30,7 @@ const NavBar = () => {
   ];
 
   return (
-    <div className="flex justify-between items-center w-full h-15 px-4 text-white bg-gray-800 fixed z-10">
+    <div className="flex justify-between items-center w-full h-18 px-4 text-white bg-gray-800 fixed z-10">
       <div>
         <h1 className="text-5xl font-signature ml-2">
         <span className="text-4xl">Tk.</span>
