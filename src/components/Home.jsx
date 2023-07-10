@@ -43,7 +43,7 @@ const Home = () => {
         <img
           src={MyImage}
           alt=""
-          className="  mx-auto w-2/3 md:w-full  z-10 rounded-full pl-20 flex-shrink-0 "
+          className=" rounded-full pl-20 w-80 flex-shrink-0 "
         />
         </div>
       </div>
