@@ -15,7 +15,7 @@ function About() {
           initial={{ opacity: 0, y: 100 }}
           animate={{ y: 0, opacity: 1 }}
           transition={{ duration: 0.7 }}
-          className="text-2xl text-justify text-blue-200  m-5 md:m-0 p-6 md:ml-5 mt-5 md:w-5/6 lg:w-4/5 xl:w-3/4 bg-blue-200 rounded-md shadow-2xl drop-shadow-sm backdrop-blur-md bg-opacity-20 max-h-[70vh] overflow-y-auto"
+          className="font-normal text-xl text-justify text-blue-200  m-5 md:m-0 p-6 md:ml-5 mt-5 md:w-5/6 lg:w-4/5 xl:w-3/4 bg-blue-200 rounded-md shadow-2xl drop-shadow-sm backdrop-blur-md bg-opacity-20 max-h-[70vh] overflow-y-auto"
         >
           <Typography className=" text-5xl text-blue-400 font-bold text-center mt-2 mb-5 border-b-2 border-light-blue-500">
             About Me
