@@ -23,9 +23,9 @@ const Portfolio = () => {
           id: 2,
           name: "React Admin Dashboard",
           src: Dashboard,
-          demoLink: "https://github.com/tahneetK13/React-Dashboard", 
+          demoLink: "https://wishwares-dashboard.netlify.app/", 
           githubRepo: "https://github.com/tahneetK13/React-Dashboard",
-          techstack: "React, Material UI, Nivo Charts, Formik, Yup, Fullcalendar, Data Grid",
+          techstack: "React, Tailwind Css, React-Icons",
         },
         {
           id: 3,
