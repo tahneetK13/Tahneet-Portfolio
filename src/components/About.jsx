@@ -27,7 +27,7 @@ function About() {
           particularly with React Native.
           <br />
           <br />
-          My educational background includes a Bachelor of Engineering degree in
+          My educational background includes a Bachelor of Technology (BTech) degree in
           Information Technology from
           <span className="font-bold mx-2 text-blue-400 ">
             {" "}
